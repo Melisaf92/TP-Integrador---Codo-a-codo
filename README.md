@@ -1,6 +1,4 @@
-# TP-Integrador---Codo-a-codo
-
-TP1 del curso "Codo a Codo"
+# TP1 del curso "Codo a Codo"
 
 Trabajo Práctico Integrador de puro Frontend hecho con HTML5, CSS3 y Bootstrap.
 
